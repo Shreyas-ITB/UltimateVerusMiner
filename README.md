@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to UltimateVerusMiner 👋</h1>
 <p align ="center">
-    <a href="https://discord.com/invite/VRKMP2S">
+    <a href="https://discord.gg/veruscoin">
         <img alt="Discord" src="https://img.shields.io/discord/677615191793467402.svg?label=&logo=discord&style=for-the-badge&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"/>
     </a>
    </p>

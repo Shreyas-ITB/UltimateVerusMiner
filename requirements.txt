@@ -1,0 +1,6 @@
+rich
+configparser
+readchar
+psutil
+beautifulsoup4
+requests
